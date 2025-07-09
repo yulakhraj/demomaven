@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.devops.AppTest" time="0.013" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\AaDemoWorks\github\mavenprocess\Demo1\target\test-classes;C:\AaDemoWorks\github\mavenprocess\Demo1\target\classes;C:\Users\z004zcyn\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://www.azul.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Zulu\zulu-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\z004zcyn\AppData\Local\Temp\surefire10110705603534290229\surefirebooter-20250709232942226_3.jar C:\Users\z004zcyn\AppData\Local\Temp\surefire10110705603534290229 2025-07-09T23-29-42_090-jvmRun1 surefire-20250709232942226_1tmp surefire_0-20250709232942226_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\AaDemoWorks\github\mavenprocess\Demo1\target\test-classes;C:\AaDemoWorks\github\mavenprocess\Demo1\target\classes;C:\Users\z004zcyn\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\z004zcyn"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-01-21"/>
+    <property name="java.home" value="C:\Program Files\Zulu\zulu-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\AaDemoWorks\github\mavenprocess\Demo1"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\z004zcyn\AppData\Local\Temp\surefire10110705603534290229\surefirebooter-20250709232942226_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.14+7-LTS"/>
+    <property name="user.name" value="z004zcyn"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Zulu17.56+16-SA"/>
+    <property name="localRepository" value="C:\Users\z004zcyn\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azul.com/support/"/>
+    <property name="java.io.tmpdir" value="C:\Users\z004zcyn\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.14"/>
+    <property name="user.dir" value="C:\AaDemoWorks\github\mavenprocess\Demo1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Zulu\zulu-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PowerShell\7;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\Common Files\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Common Files\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\TNC Client Plugin\;C:\Program Files\Amazon\SSM\Plugins;C:\Program Files\Amazon\SessionManagerPlugin\bin\;C:\Program Files\Git\cmd;c:\Users\z004zcyn\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\PowerShell\7\;C:\Program Files\nodejs\;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Zulu\zulu-17\bin;C:\Program Files\IcedTeaWeb\WebStart\bin;C:\Program Files\Kubernetes\Minikube;C:\Program Files\apache-maven-3.9.10\bin;C:\Users\z004zcyn\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\z004zcyn\AppData\Local\Programs\Python\Python313\;C:\Users\z004zcyn\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\z004zcyn\AppData\Local\Programs\Python\Python312\;C:\Users\z004zcyn\AppData\Local\Microsoft\WindowsApps;C:\Users\z004zcyn\AppData\Local\Programs\Git\cmd;C:\Program Files\Amazon\SSM\Plugins;C:\Users\z004zcyn\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\z004zcyn\AppData\Local\Programs\cursor\resources\app\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="17.0.14+7-LTS"/>
+    <property name="java.specification.maintenance.version" value="1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.devops.AppTest" time="0.001"/>
+</testsuite>
